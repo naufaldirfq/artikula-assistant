@@ -34,7 +34,7 @@ export async function analyzeArticulation(audioBase64: string, mimeType: string,
   };
 
   const response = await ai.models.generateContent({
-    model: "gemini-3.1-pro-preview",
+    model: "gemini-3.1-flash-lite",
     contents: {
       parts: [
         {
