@@ -1,5 +1,5 @@
 {
-  "name": "Articulation Assistant",
+  "name": "Artikula",
   "description": "An application that evaluates a person's speaking articulation and provides suggestions for improvement.",
   "requestFramePermissions": ["microphone"],
   "majorCapabilities": []

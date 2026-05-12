@@ -148,7 +148,7 @@ export default function App() {
             <Mic size={32} />
           </div>
           <h1 className="text-4xl font-serif font-bold italic tracking-tight text-[#3D3B36]">
-            Artikula Assistant
+            Artikula
           </h1>
           <p className="text-sm font-medium uppercase tracking-widest opacity-70 max-w-xl mx-auto">
             Pelatih artikulasi pribadi Anda. Rekam suara Anda saat berbicara atau membaca sesuatu, dan AI kami akan memberikan ulasan, skor, serta saran perbaikan.

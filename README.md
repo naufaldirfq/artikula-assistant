@@ -1,4 +1,4 @@
-# 🎙️ Artikula Assistant
+# 🎙️ Artikula
 
 **Your personal articulation coach.** Record your voice while speaking or reading aloud, and let AI analyze your articulation quality — providing a score, strengths, and actionable suggestions for improvement.
 
